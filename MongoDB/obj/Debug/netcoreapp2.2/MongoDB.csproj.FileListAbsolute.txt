@@ -1,0 +1,11 @@
+C:\Users\shiga\source\repos\MongoDB\MongoDB\bin\Debug\netcoreapp2.2\MongoDB.deps.json
+C:\Users\shiga\source\repos\MongoDB\MongoDB\bin\Debug\netcoreapp2.2\MongoDB.runtimeconfig.json
+C:\Users\shiga\source\repos\MongoDB\MongoDB\bin\Debug\netcoreapp2.2\MongoDB.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\MongoDB\MongoDB\bin\Debug\netcoreapp2.2\MongoDB.dll
+C:\Users\shiga\source\repos\MongoDB\MongoDB\obj\Debug\netcoreapp2.2\MongoDB.csprojAssemblyReference.cache
+C:\Users\shiga\source\repos\MongoDB\MongoDB\obj\Debug\netcoreapp2.2\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\MongoDB\MongoDB\obj\Debug\netcoreapp2.2\MongoDB.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\MongoDB\MongoDB\obj\Debug\netcoreapp2.2\MongoDB.AssemblyInfo.cs
+C:\Users\shiga\source\repos\MongoDB\MongoDB\bin\Debug\netcoreapp2.2\MongoDB.pdb
+C:\Users\shiga\source\repos\MongoDB\MongoDB\obj\Debug\netcoreapp2.2\MongoDB.dll
+C:\Users\shiga\source\repos\MongoDB\MongoDB\obj\Debug\netcoreapp2.2\MongoDB.pdb
